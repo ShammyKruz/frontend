@@ -180,9 +180,7 @@ const OurStore = () => {
                   </p>
                   <select name="" className="form-control form-select" id="">
                     <option value="manual">Featured</option>
-                    <option value="best-selling" selected="selected">
-                      Best Selling
-                    </option>
+                    <option value="best-selling">Best Selling</option>
                     <option value="title-ascending">Alphabetically, A-Z</option>
                     <option value="title-descending">
                       Alphabetically, Z-A

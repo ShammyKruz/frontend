@@ -29,7 +29,7 @@ const ResetPassword = () => {
                 <div>
                   <div className="mt-3 d-flex justify-content-center align-items-center gap-15">
                     <button className="button border-0" type="submit">
-                      Ready
+                      Get Reset Link
                     </button>
                   </div>
                 </div>
