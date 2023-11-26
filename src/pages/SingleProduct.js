@@ -210,12 +210,6 @@ const SingleProduct = () => {
                     Copy Product Link
                   </a>
                 </div>
-                {/*<div className="d-flex gap-10 align-items-center my-2">
-                    <h3 className="product-heading">Materials:</h3>
-                    <p className="product-data">
-                      Lorem produced these texts for me just as I invited them to. Lorem produced these texts for me just as I invited them to. Lorem produced these texts for me just as I invited them to.
-                    </p>
-                  </div>*/}
               </div>
             </div>
           </div>
@@ -322,6 +316,7 @@ const SingleProduct = () => {
           </div>
         </div>
         <div className="row">
+          <ProductCard />
           <ProductCard />
         </div>
       </Container>
